@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useState,useEffect} from 'react'
 import { Card, Table, Select, Input, Button, Badge, Menu } from 'antd';
 import ProductListData from "assets/data/product-list.data.json"
 import { EyeOutlined, DeleteOutlined, SearchOutlined, PlusCircleOutlined } from '@ant-design/icons';
@@ -7,7 +7,10 @@ import EllipsisDropdown from 'components/shared-components/EllipsisDropdown';
 import Flex from 'components/shared-components/Flex'
 import NumberFormat from 'react-number-format';
 import { useHistory } from "react-router-dom";
+import PropTypes from 'prop-types';
+import {connect} from 'react-redux'
 import utils from 'utils'
+import {GetProduct} from "../../../../../redux/actions/Product";
 
 const { Option } = Select
 
@@ -26,11 +29,18 @@ const getStockStatus = stockCount => {
 
 const categories = ['Cloths', 'Bags', 'Shoes', 'Watches', 'Devices']
 
-const ProductList = () => {
+const ProductList = (props) => {
+	let {product,GetProduct} = props
+
+
 	let history = useHistory();
 	const [list, setList] = useState(ProductListData)
 	const [selectedRows, setSelectedRows] = useState([])
 	const [selectedRowKeys, setSelectedRowKeys] = useState([])
+
+	useEffect(()=> {
+		GetProduct()
+	},[GetProduct])
 
 	const dropdownMenu = row => (
 		<Menu>
@@ -201,4 +211,12 @@ const ProductList = () => {
 	)
 }
 
-export default ProductList
+ProductList.propTypes = {
+	GetProduct:PropTypes.func.isRequired
+}
+
+const mapStateToProps = state => ({
+	product: state.product
+})
+
+export default connect(mapStateToProps, {GetProduct})(ProductList)

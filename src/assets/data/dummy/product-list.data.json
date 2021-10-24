@@ -1,0 +1,285 @@
+{
+  "status": "success",
+  "current_page": 1,
+  "total_page": 1,
+  "max_result": 20,
+  "total": 1,
+  "data": [
+    {
+      "entity_id": 1,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    },
+    {
+      "entity_id": 2,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    },
+    {
+      "entity_id": 3,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    },
+    {
+      "entity_id": 4,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    },
+    {
+      "entity_id": 5,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    },
+    {
+      "entity_id": 6,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    },
+    {
+      "entity_id": 7,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    },
+    {
+      "entity_id": 8,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    },
+    {
+      "entity_id": 9,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    },
+    {
+      "entity_id": 10,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    },
+    {
+      "entity_id": 11,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    },
+    {
+      "entity_id": 12,
+      "attribute_set": null,
+      "type_id": 1,
+      "sku_id": null,
+      "product_images": "0",
+      "category": {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+      },
+      "meta": {
+        "meta_title": "Product TItle",
+        "meta_keyword": "Product Keyword",
+        "meta_description": "Product Description",
+        "scopes": "product"
+      },
+      "prices": {
+        "regular_price": 120000,
+        "special_price": null,
+        "reseller_price": 100000,
+        "vendor_price": 90000
+      }
+    }
+  ]
+}
